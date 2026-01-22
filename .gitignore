@@ -1,0 +1,35 @@
+# --- Build outputs ---
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# --- Executables ---
+a.exe
+a.out
+CandyFactory
+CandyFactory.exe
+*.exe
+*.out
+
+# --- Debug / logs ---
+*.log
+*.tmp
+
+# --- IDEs / editors ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- OS files ---
+.DS_Store
+Thumbs.db

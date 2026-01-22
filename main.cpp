@@ -1,9 +1,9 @@
 #include <iostream>
 // Include the headers for your classes:
-// #include "SugarSupplier.h"
-// #include "ChocolateSupplier.h"
-// #include "CandyMaker.h"
-// #include "CandyBox.h"
+#include "SugarSupplier.hpp"
+#include "ChocolateSupplier.hpp"
+#include "CandyMaker.hpp"
+#include "CandyBox.hpp"
 
 int main() {
     // 1. Create a CandyMaker with sugar and chocolate supplier names
